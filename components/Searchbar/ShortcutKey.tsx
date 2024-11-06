@@ -34,5 +34,4 @@ const ShortcutKey: FC = () => {
     </span>
   )
 }
-
 export default ShortcutKey
